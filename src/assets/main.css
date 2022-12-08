@@ -15,6 +15,12 @@ span {
   color: var(--color-text);
 }
 
+h1,
+h2,
+h3 {
+  font-family: Rockwell;
+}
+
 a {
   color: var(--color-text-em);
   text-decoration: none;

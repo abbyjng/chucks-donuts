@@ -40,7 +40,17 @@
       </div>
       <div>
         <h2>Hours</h2>
-        <span>Always open, 24 hours everyday</span>
+        <span>24 hours</span>
+        <br />
+        <span>7 days a week</span>
+      </div>
+      <div>
+        <h2>Contact us</h2>
+        <span>Email: </span>
+        <a href="#">chucksdonuts@gmail.com</a>
+        <br />
+        <span>Phone: </span>
+        <a href="#">(123) 456-7890</a>.
       </div>
     </div>
   </div>
@@ -158,6 +168,8 @@
   display: flex;
   margin-top: 50px;
   gap: 50px;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 #title {
@@ -173,5 +185,11 @@ img {
   height: 300px;
   object-fit: contain;
   margin-bottom: 20px;
+}
+
+h3 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: -20px;
 }
 </style>
