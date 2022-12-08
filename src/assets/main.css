@@ -1,0 +1,30 @@
+@import "./base.css";
+
+#app {
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+h1,
+h2,
+h3,
+p,
+span {
+  color: var(--color-text);
+}
+
+a {
+  color: var(--color-text-em);
+  text-decoration: none;
+}
+
+main {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 50px;
+}
+
+@media (min-width: 1024px) {
+}
