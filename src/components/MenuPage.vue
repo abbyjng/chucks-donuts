@@ -78,7 +78,28 @@ function readMore(listing) {
       <a href="#" @click="readMore('fritter')">{{
         fritterOpen ? "Hide" : "Read more"
       }}</a>
-      <div v-if="fritterOpen">fritter!</div>
+      <div v-if="fritterOpen">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non risus
+        placerat, posuere est non, iaculis mi. Nullam fermentum id nisi sit amet
+        vulputate. Vestibulum massa nisi, dignissim eu nibh viverra, rutrum
+        ullamcorper ante. Suspendisse eget sem dolor. Proin a lectus turpis.
+        Integer hendrerit erat at placerat dignissim. Aenean vitae mi est.
+        Aliquam erat volutpat. Nunc luctus varius velit ut pulvinar. Maecenas
+        nec hendrerit diam. Pellentesque habitant morbi tristique senectus et
+        netus et malesuada fames ac turpis egestas. Aliquam augue quam,
+        convallis ut dui nec, molestie consequat quam. Suspendisse semper est
+        massa, a condimentum lorem rutrum eget. Pellentesque laoreet enim et
+        malesuada luctus. Quisque mattis risus vel fringilla lacinia.
+        Suspendisse sodales turpis leo, laoreet blandit tortor laoreet eget.
+        Etiam commodo maximus magna, nec viverra nibh rutrum vitae. Donec nisi
+        massa, consequat ac libero ut, elementum rutrum est. Cras varius ornare
+        velit, in fermentum mi cursus ullamcorper. Maecenas consectetur sed
+        ligula sed molestie. Nullam in lobortis diam. Maecenas ullamcorper
+        sagittis est, a commodo odio porta ac. Integer imperdiet mauris ut
+        imperdiet interdum. Praesent ac egestas nibh. Sed sit amet faucibus
+        ipsum. Nullam ac risus enim. Vivamus iaculis, tortor eget sodales
+        viverra, ante ligula efficitur dolor, sed volutpat risus quam et mi.
+      </div>
     </div>
     <div class="menu-item">
       <img src="./images/egg_sandwich.png" />
