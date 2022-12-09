@@ -60,97 +60,94 @@
       <h3>Sothy</h3>
       <img src="./images/sothy.png" />
       <span>
-        Sothy is the owner of Chuck's Donuts, and she carries many
-        responsibilities. She not only runs a 24-hour donut shop in a local
-        economic downturn, but is also a single mother and must face the
-        consequences of her cheating husband.
+        Sothy, the owner of Chuck's Donuts, is living in constant fear. After
+        her ex-husband stole her money, started a second family, and left her
+        with two daughters, she not only became resentful towards him but also
+        constantly fears that her uncle-in-law will send someone to strike her
+        down since her money was not being paid back from her loan.
       </span>
       <br />
       <span>
-        This shop originally stemmed from a loan from the family's ex-father's
-        uncle. When Sothy found out that her ex-husband had been stealing her
-        money which was intended to pay the loan back, she became increasingly
-        more afraid of the power that the uncle may hold. She hasn't told this
-        to her daughters, which ultimately causes her to face a dilemma between
-        the dangers of keeping the donut shop and their need for it as their
-        livelihood. She becomes even more protective of the two girls, telling
-        them to watch out for him, despite her contradiction to telling them
-        that "He's fine... He's Khmer" (14) when they expressed concern over
-        leaving him in the front of the shop alone. Her fear of the uncle causes
-        her to distrust in the man at her shop, and that fear still stemming
-        from her relationship with her ex-husband, another Cambodian man.
+        This fear affects Sothy's perception of each other; she views herself as
+        unworthy of having the girls around, wondering if she should send them
+        to their father. She describes herself in an unflattering way, putting
+        herself down when she looks at her reflection. She's a workaholic, as
+        seen by her daughters' discussion of whether or not she should pick up
+        smoking so that she would be forced to take more breaks. All of these
+        things come from her ex-husbands actions.
       </span>
       <br />
       <span>
-        Despite this unbased assumption and fear, it turns out to be a
-        reasonable concern, as the man was far from good. By the end of the
-        story, she assists the man's wife in knocking him out with her cast iron
-        pan, and she experiences a moment of solidarity between her and the
-        woman. Throughout the story, Sothy struggles to understand what her
-        ex-husband's actions mean for her ability to trust other men in her
-        life, especially Khmer ones that surround her, but in this experience
-        with the other woman, her thoughts are finally "free of her daughters'
-        father" (40).
+        However, towards the end of the story, Sothy's calmest moment is after
+        she assists a woman by knocking out her abusive husband. While her two
+        daughters both begin thinking of their father, her “mind stays free of
+        her daughters' father” (40). Instead, she considers the woman and the
+        impact that will come to her. It's as if all she needed was a
+        third-party event to occur in order for her to be able to properly take
+        a step back from her own situation.
       </span>
     </div>
     <div class="person">
       <h3>Tevy</h3>
       <img src="./images/tevy.png" />
       <span>
-        Tevy is the elder of the two daughters by four years at the age of 16.
-        She's taking a philosophy course in high school and spends much of her
-        time at the restaurant doing homework and reading a book.
+        Tevy does not miss her father; rather, she is resentful of him and his
+        impact on her. Because her thinking and understanding of the world
+        around her is highly analytical, she becomes especially irritated and
+        frustrated when considering what it means to be Khmer. She feels like
+        she has not done anything to be considered Khmer, and some of this
+        feeling stems from the ways that her father likened commonplace things
+        or shows to the genocide. Since she herself did not go through that in
+        her lifetime, she feels disconnected from her ethnic identity.
       </span>
       <br />
       <span>
-        Despite constantly telling her sister, Kayley, off for staring at and
-        contemplating the man who visits their shop every night, Tevy begins to
-        take interest in him as well as the nights pass. This interest remains
-        due to her philosophy course, as she begins to consider that she could
-        use the man as a subject for an essay which she has to write. Her
-        thought process regarding the man remains analytical, and she even
-        begins to wonder how she can use his presence in her life to her
-        advantage, to advance her path to college.
+        This internal confusion pushes her to also contemplate how the
+        mysterious man in their shop views his identity. She even wonders if he
+        only is in Chuck's Donuts because “he feels detached from the world and
+        can center himself only here, in Chuck's Donuts, around other Khmer
+        people” (18). She automatically assumes he has a stronger sense of his
+        own identity than she does of hers.
       </span>
       <br />
       <span>
-        When Sothy tells Tevy and Kayley that the man is Khmer, Tevy becomes
-        even more invested in the man, and she along with her sister begin to
-        formulate an interview for the man. She reflects upon her own experience
-        of being Khmer, drawing from her experience with her father. This is
-        informed by not only her mom's ability to identify the man as Khmer, but
-        also her father's reference to her own Khmer-ness when he was still in
-        her life, and her distaste for her father shapes this view as well.
+        However, as the two girls interview the man, he reveals that he does not
+        consider himself to be Khmer. Tevy confirms with him that he and his
+        family had went through the Khmer Rouge, precisely the event that
+        determines her own identity, yet he still does not feel connected to the
+        Cambodian ethnicity. She continues to seek out reasons for which he
+        could possibly not be Khmer, but comes up short due to her flawed
+        understanding of the identity as a whole.
       </span>
     </div>
     <div class="person">
       <h3>Kayley</h3>
       <img src="./images/kayley.png" />
       <span>
-        Kayley, the youngest of the three women of Chuck's Donuts, assists with
-        the store at the young age of 12. Naturally curious out of both her age
-        and personality, she shows interest in the man who comes to the
-        restaurant from the very first day he shows up. One of the first
-        questions she asks about him is whether or not he's Cambodian, which
-        Tevy brushes off; however, when Sothy confirms that for them, her view
-        shifts, and she even contemplates how he looks similar to her father.
+        Out of the three women, Kayley misses her father the most and often has
+        a sense of longing for a father-figure in her life. She is also the
+        first one to take interest in the man who begins coming to their shop,
+        as well as the first to see a resemblance between him and her father,
+        something which Sothy agreed with later despite not vocalizing it. This
+        longing for a father-figure makes her significantly more susceptible to
+        the male gaze than her sister and mother. This is made clear through her
+        observations and reactions to the man.
       </span>
       <br />
       <span>
-        This conversation is one of the big catalysts that draws the story
-        together. Because all three women have their husband/father on their
-        minds, they now see the man as something more, as if the revelation
-        means more than a resemblance.
+        When he looks at them with disapproval, she likens him to her father and
+        wishes she were invisible. She wonders aloud if he might be looking at
+        them in the reflection of the window, rather than looking outside.
+        Though she says, "'That's just so creepy,'" there is also “an
+        exhilaration blooming within her” (14).
       </span>
       <br />
       <span>
-        When Kayley and Tevy ultimately witness the man and his wife fighting,
-        the two girls "cannot say whom they feel more aligned with - the man, to
-        whose presence they have grown attached, or the bruised woman, whose
-        explosive anger towards the man appears warranted" (36). The man's
-        constant presence in the shop, as well as his similarity to their dad,
-        plays a part in their view of him, despite not even knowing his name and
-        having only one stilted conversation with him.
+        It appears that she wants the man to take an interest in them, and
+        projects her idea of a father figure onto him in a somewhat grotesque
+        way. Kayley, in this desire, walks the hazardous line between curiosity
+        and obsession, slowly becoming attached to a stranger whom she's never
+        spoken with.
       </span>
     </div>
   </div>
