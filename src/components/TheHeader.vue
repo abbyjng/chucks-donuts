@@ -23,6 +23,7 @@
 
 .nav-links {
   display: flex;
+  font-family: Rockwell;
 }
 
 .nav-links a {
