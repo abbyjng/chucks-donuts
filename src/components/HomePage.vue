@@ -18,12 +18,18 @@
 
 <style scoped>
 img {
-  width: 60%;
+  width: 100%;
 }
 
-#homepage {
-  display: flex;
-  gap: 20px;
-  align-items: center;
+@media (min-width: 1000px) {
+  img {
+    width: 60%;
+  }
+
+  #homepage {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
 }
 </style>

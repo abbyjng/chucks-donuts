@@ -155,9 +155,7 @@
 
 <style scoped>
 #people {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 20px;
+  display: block;
   margin-top: 50px;
 }
 
@@ -176,6 +174,7 @@
 .person {
   display: flex;
   flex-direction: column;
+  margin-bottom: 50px;
 }
 
 img {
@@ -188,5 +187,17 @@ h3 {
   text-align: center;
   font-size: 24px;
   margin-bottom: -20px;
+}
+
+@media (min-width: 1000px) {
+  #people {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+  }
+
+  .person {
+    margin-bottom: 0;
+  }
 }
 </style>

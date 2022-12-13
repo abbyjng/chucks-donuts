@@ -170,9 +170,7 @@ function readMore(listing) {
 
 <style scoped>
 #menu-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  row-gap: 30px;
+  display: block;
 }
 
 .menu-item {
@@ -211,5 +209,19 @@ h2 {
 
 .closed {
   display: none;
+}
+
+@media (min-width: 600px) {
+  #menu-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 30px;
+  }
+}
+
+@media (min-width: 1000px) {
+  #menu-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 }
 </style>

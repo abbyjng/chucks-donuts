@@ -23,7 +23,8 @@
 
 .nav-links {
   display: flex;
-  font-family: Rockwell;
+  font-family: Rockwell, "Arvo";
+  flex-direction: column;
 }
 
 .nav-links a {
@@ -33,5 +34,16 @@
 
 img {
   height: 40px;
+  display: none;
+}
+
+@media (min-width: 600px) {
+  img {
+    display: block;
+  }
+
+  .nav-links {
+    flex-direction: row;
+  }
 }
 </style>
